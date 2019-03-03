@@ -1,26 +1,31 @@
 The first book that I decided to review is The Pragmatic Programmer(From Journeyman to Master) by Andrew Hunt,David Thomas.
 
-Before starting the book, I was expecting to learn those critical things which usually prinicipal software engineers know after years of experience.
-My aim was to learn techniques that could directly improve my productivity in completing projects and also help make my code better than my peers.
+Before starting the book, I was expecting to learn those critical things which usually prinicipal software engineers know after years 
+of experience.My aim was to learn techniques that could directly improve my productivity in completing projects and also help make my 
+code better than my peers.
 
 Following are the things that I have taken away from this book:
 
 1.) The Cat Ate My Source Code
      In the first part, the author teaches us many important take-aways.Some of them are taking the responsibility of the code you build,
-     taking the responsibility of the project you are a part of and always be cognizant of the changes happening around you with respect to
-     the technology and your organization as well.
-     The author introduces a novel concept of Knowleddge Portfolio which I liked a lot. He also stressed on topics such as Communication which I feel 
-     are important for technical professionals to suceed.
+     taking the responsibility of the project you are a part of and always be cognizant of the changes happening around you with respect 
+     to the technology and your organization as well.
+     The author introduces a novel concept of Knowleddge Portfolio which I liked a lot. He also stressed on topics such as Communication 
+     which I feel are important for technical professionals to suceed.
+     
 2.)  Estimation and Orthogonality
-     Another part of the book which I could take-away a lot from. The author in this part talks about important concepts such as Orthogonality
-     and decoupling which unfortunately are not a part of modern software engineering syllabus. The author stresses how application of both these concepts
-     or lack of it could literally make or break projects. He uses an amusing example of a helicopter to explain it. Also this part of book rounds up with 
-     'Estimation' which I feel is critical to every project. Although I felt estimation prose to be on the theoretical side.
+     Another part of the book which I could take-away a lot from. The author in this part talks about important concepts such as 
+     Orthogonality and Decoupling which unfortunately are not a part of modern software engineering syllabus. The author stresses how 
+     application of both these concepts or lack of it could literally make or break projects. He uses an amusing example of a helicopter 
+     to explain it. Also this part of book rounds up with 'Estimation' which I feel is critical to every project. 
+     Although I felt estimation prose to be on the theoretical side.
+     
  3.) The Basic Tools
-     This part of the book emphasizes on the tools which a software programmer uses in his day-to-day life. Although I was not able to take away much
-     from it , working primarily on 1 platform at this moment, it does have some useful knowledge. The author talks about how things such as the correct 
-     editor or a debugging technique could help you a lot in your software engineering career.
+     This part of the book emphasizes on the tools which a software programmer uses in his day-to-day life. Although I was not able to 
+     take away much from it , working primarily on 1 platform at this moment, it does have some useful knowledge. The author talks about 
+     how things such as the correct editor or a debugging technique could help you a lot in your software engineering career.
+     
  4.) Pragmatic Paranoia
-     Again a part of book which provided me with many important tidbits.I really liked the concept of 'Design By Contract' which clearly validates the 
-     functionality expected from a programming module.
+     Again a part of book which provided me with many important tidbits.I really liked the concept of 'Design By Contract' which clearly 
+     validates the functionality expected from a programming module.
 
